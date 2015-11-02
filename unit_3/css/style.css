@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 html {
-	background: url(/images/hisoikoshero.jpg) no-repeat center center fixed;
+	background: url(css/images/hisoikoshero.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
