@@ -1,8 +1,10 @@
 body {
 	font-weight: bold;
 	text-align: center;
-	background: url("image/hisoikoshero.jpg");
+	background-image: url("image/hisoikoshero.jpg");
 	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 h1 {
