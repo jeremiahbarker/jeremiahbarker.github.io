@@ -1,6 +1,7 @@
 body {
 	font-weight: bold;
 	background: url(image/hisoikoshero.jpg);
+	background-size: cover;
 }
 
 h1 {
