@@ -1,7 +1,7 @@
 body {
 	font-weight: bold;
 	text-align: center;
-	background: url(image/hisoikoshero.jpg);
+	background: url("image/hisoikoshero.jpg");
 	background-size: cover;
 }
 
@@ -11,11 +11,4 @@ h1 {
 
 h1,p {
 	color: white;
-}
-
-#hero1 {
- background: url(image/hisoikos.JPG);
-  background-size:cover;
-  background-position:center center;
-  background-attachment:fixed;
 }
