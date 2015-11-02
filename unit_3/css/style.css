@@ -1,12 +1,16 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+html {
+	background: url(images/hisoikoshero.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 body {
 	font-weight: bold;
 	text-align: center;
-	background-image: url("image/hisoikoshero.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
 }
 
 h1 {
