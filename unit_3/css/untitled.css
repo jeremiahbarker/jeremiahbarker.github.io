@@ -2,6 +2,6 @@ html {
 	background-image: url(images/hisoikoshero.jpg);
 }
 
-body {
+p,h1 {
 	text-align: center;
 }
