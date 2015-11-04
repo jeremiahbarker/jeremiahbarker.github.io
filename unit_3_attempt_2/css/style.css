@@ -14,10 +14,12 @@ body {
 
 h1 {
 	font-family: 'Volkhov', serif;
+	font-size: 4em;
 }
 
 h2 {
 	font-family: 'News Cycle', sans-serif;
+	letter-spacing: 0.5em;
 }
 
 p {
