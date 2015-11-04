@@ -17,8 +17,10 @@ h1 {
 
 p {
 	font-family: Helvetica, sans-serif;
+	font-style: italic;
 }
 
 a:link, a:visited {
 	color: #FFFFFF;
+	text-decoration: none;
 }
