@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Volkhov);
+@import url(https://fonts.googleapis.com/css?family=News+Cycle);
+
 body {
 	background-image: url("../images/hisoikoshero.jpg");
 	background-repeat: no-repeat;
@@ -10,10 +13,13 @@ body {
 }
 
 h1 {
-	text-transform: uppercase;
-	letter-spacing: 0.3em;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Volkhov', serif;
 }
+
+h2 {
+	font-family: 'News Cycle', sans-serif;
+}
+
 
 p {
 	font-family: Helvetica, sans-serif;
