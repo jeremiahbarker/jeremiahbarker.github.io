@@ -6,4 +6,19 @@ body {
 
 body {
 	text-align: center;
+	color: #FFFFFF;
+}
+
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 0.3em;
+	font-family: Helvetica, sans-serif;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+}
+
+a:link, a:visited {
+	color: #FFFFFF;
 }
