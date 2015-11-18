@@ -60,6 +60,7 @@ p {
 	font-family: Helvetica, sans-serif;
 	font-style: normal;
 	text-align: left;
+	padding: 10px;
 }
 
 a:link, a:visited {
