@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Volkhov);
+@import url(https://fonts.googleapis.com/css?family=News+Cycle);
+
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+nav {
+	background-color: #E8C66A;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+div {
+	background-color: #FFE2B8;
+}
+
+section {
+	background-color: #FFE2B8;
+}
+
+
+body {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h1 {
+	font-family: 'Volkhov', serif;
+	font-size: 32px;
+}
+
+h2 {
+	font-family: 'News Cycle', sans-serif;
+	letter-spacing: 1.0em;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	font-style: normal;
+}
+
+a:link, a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
