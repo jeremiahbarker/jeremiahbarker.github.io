@@ -6,6 +6,8 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20 px;
+	text-align: center;
+	color: #FFFFFF;
 }
 
 nav {
@@ -32,12 +34,6 @@ section {
 	background-color: #FFE2B8;
 }
 
-
-body {
-	text-align: center;
-	color: #FFFFFF;
-}
-
 h1 {
 	font-family: 'Volkhov', serif;
 	font-size: 32px;
@@ -51,9 +47,16 @@ h2 {
 p {
 	font-family: Helvetica, sans-serif;
 	font-style: normal;
+	text-align: left;
 }
 
 a:link, a:visited {
 	color: #FFFFFF;
 	text-decoration: none;
+}
+
+ul {
+	list-order-type: none;
+	margin: 0;
+	padding: 0;
 }
